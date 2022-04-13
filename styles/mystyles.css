@@ -1,0 +1,60 @@
+
+.darkgray {
+    color: var(--bs-gray-dark);
+  }
+  
+  .skyblue {
+    color: lightskyblue;
+  }
+
+  .lightgray {
+      color: lightgray;
+  }
+  
+  .resume-bg {
+    background-color: lightgray;
+  }
+  
+  .common {
+    background-color: lightgray;
+    border: solid 2px white;
+    position: absolute;
+  }
+  
+  .profpic {
+    right: 0%;
+  }
+  
+  .resume {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  .resume-small {
+    font-size: 30px;
+    font-weight: normal;
+  }
+  
+  .resume-smaller{
+    font-size: 20px;
+    font-weight: normal;
+  }
+  
+  .white {
+    color: white;
+  }
+
+  .arial {
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .italic {
+      font-style: italic;
+  }
+
+  .bold {
+      font-weight: bold;
+  }
+
+  .imagecenter {
+      align-items: center;
+  }

@@ -1,0 +1,84 @@
+.tabheader {
+    top: 10px;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+  }
+  
+  .tabbody {
+    background-color: lightgray;
+    margin-top: 20px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+  }
+  
+  .tabfooter {
+    background-color: lightgray;
+    top: 10px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+  }
+
+  .headerfont {
+    font-size: 50px;
+    text-align: center;
+}
+
+.white1 {
+    text-decoration: none;
+    color: white;
+}
+
+.tab1 {
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    overflow: hidden;
+    border: solid 2px black;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    justify-items: center;
+    
+}
+
+.tabdescription {
+    color: white;
+    text-align: center;
+}
+
+.tabfooter2 {
+    text-align: center;
+}
+
+.skills {
+    margin-left: 280px;
+    width: 835px;
+}
+
+.alignright {
+    text-align: right;
+}
+
+.tab-bg {
+    background-color: lightgray;
+}
+
+.aligncenter {
+    text-align: center;
+}
